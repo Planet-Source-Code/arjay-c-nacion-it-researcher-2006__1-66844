@@ -1,0 +1,65 @@
+{\rtf1\ansi\deff0
+
+{\fonttbl
+{\f0\fnil\fcharset0 Arial;}
+{\f1\fnil Arial;}
+}
+
+{\colortbl;
+\red0\green0\blue0;
+\red0\green128\blue0;
+}
+
+\plain\fs20\cf1
+
+#{\footnote 1}
+${\footnote Introduction}
+K{\footnote introduction;bout}
+\b0\i0\cf0
+\pard
+\qc
+\cf2
+
+
+\f1
+\fs20
+\{bmc intro.bmp\}
+\cf1
+
+ 
+\par
+\pard
+\f0
+     IT Researcher is a complete I.T Encyclopedia that caters a wide range of IT terms. Its database contains more than 1000 IT terms.\f1
+\par
+\b0\i0
+\pard
+
+\page
+
+#{\footnote 2}
+${\footnote The Programmer}
+K{\footnote arjay nacion;arjay;programmer}
+\b0\i0\cf0
+\pard
+\qc
+\cf2
+
+
+\f1
+\fs20
+\{bmc DSCI0041.bmp\}
+\cf1
+
+ 
+\f0
+ \par
+\par
+IT Researcher 2006 was programmed and developed by Arjay C. Nacion.\f1
+\par
+\b0\i0
+\pard
+
+\page
+
+}

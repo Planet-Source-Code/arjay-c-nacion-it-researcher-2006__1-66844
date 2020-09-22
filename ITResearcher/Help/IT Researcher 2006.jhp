@@ -1,0 +1,11 @@
+[OPTIONS]
+COMPRESS=12 Hall Zeck
+CNT=.\IT Researcher 2006.cnt
+HLP=.\IT Researcher 2006.hlp
+
+[FILES]
+.\IT Researcher 2006.jrt
+
+[MAP]
+[WINDOWS]
+Main="",(0,0,500,400),,(r16777215),(r16777215),
